@@ -3,7 +3,7 @@
 ## I am a bubble tea lover, Graphic and Web Designer, and now I'm making my way into Full Stack Development!
 - ❤️ Born and raised in Costa Rica.
 - 🖌️ I'm a Graphic and Web Designer, I've been freelancing since 2020.
-- 😃 I'm currently a Full Stack Development student.
+- 😃 I'm a Full-Stack Developer.
 - 🦇 Fun fact: I have a B. Sc. in Biology. I used to work with bats!
 - 🥰 Bonus Fun Fact: I love animated films and TV series!
 
